@@ -1,0 +1,1 @@
+Here are a series of CoderByte problems that I have comleted. If you are new to JavaScript, hopefully these will help you! Feel free to email me with any questions.
